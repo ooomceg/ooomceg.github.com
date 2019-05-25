@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tick &amp; Tock</title>
+  <icon>https://www.gravatar.com/avatar/81e3dcb8de4ddb94dc9a03939feaefe9</icon>
+  <subtitle>走吧女孩　去看红色的　小龙虾</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ooomceg.github.io/"/>
+  <updated>2019-05-25T15:13:39.566Z</updated>
+  <id>http://ooomceg.github.io/</id>
+  
+  <author>
+    <name>ooomceg</name>
+    <email>ooomceg@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>再次营业</title>
+    <link href="http://ooomceg.github.io/2019/05/25/%E5%86%8D%E6%AC%A1%E8%90%A5%E4%B8%9A/"/>
+    <id>http://ooomceg.github.io/2019/05/25/再次营业/</id>
+    <published>2019-05-25T12:00:47.000Z</published>
+    <updated>2019-05-25T15:13:39.566Z</updated>
+    
+    <content type="html"><![CDATA[<p>。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;。。。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="PIECES" scheme="http://ooomceg.github.io/tags/PIECES/"/>
+    
+  </entry>
+  
+</feed>
