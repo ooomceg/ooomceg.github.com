@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ooomceg.github.io/"/>
-  <updated>2019-07-14T07:28:47.582Z</updated>
+  <updated>2019-07-14T10:11:28.638Z</updated>
   <id>http://ooomceg.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>睡眠纪事</title>
+    <link href="http://ooomceg.github.io/2019/07/14/%E7%9D%A1%E7%9C%A0%E7%BA%AA%E4%BA%8B/"/>
+    <id>http://ooomceg.github.io/2019/07/14/睡眠纪事/</id>
+    <published>2019-07-14T09:25:12.000Z</published>
+    <updated>2019-07-14T10:11:28.638Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="别人的睡觉过程："><a href="#别人的睡觉过程：" class="headerlink" title="别人的睡觉过程："></a>别人的睡觉过程：</h1><figure class="highlight lua"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">sleep</span><span class="params">()</span></span></span><br><span class="line">delay(<span class="number">3</span>, <span class="function"><span class="keyword">function</span><span class="params">()</span></span> _sleep() <span class="keyword">end</span>) <span class="comment">-- 三秒入睡</span></span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure><p><br></p><h1 id="我的睡觉过程"><a href="#我的睡觉过程" class="headerlink" title="我的睡觉过程"></a>我的睡觉过程</h1><figure class="highlight lua"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">init</span><span class="params">()</span></span></span><br><span class="line">看下时间() <span class="comment">-- 确认是不是已经不睡不行了</span></span><br><span class="line">放下手机()</span><br><span class="line">下定决心()</span><br><span class="line">放松身体()</span><br><span class="line">寻找姿势()</span><br><span class="line">放松神经()</span><br><span class="line">数绵羊下饺子还是看风景？()</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">__</span>硬件中断之精疲力尽<span class="params">()</span></span> <span class="comment">-- 若干小时后</span></span><br><span class="line">_sleep()</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">sleep</span><span class="params">()</span></span></span><br><span class="line">init()</span><br><span class="line"><span class="keyword">while</span>(!is_sleep())</span><br><span class="line">&#123;</span><br><span class="line">思考为什么睡不着()</span><br><span class="line">调整姿势()</span><br><span class="line">调节体温()</span><br><span class="line">抑制拿手机的冲动()</span><br><span class="line">肚子饿不饿？()</span><br><span class="line">口渴不渴？()</span><br><span class="line">开始胡思乱想() <span class="comment">-- 哎呀如果当初...</span></span><br><span class="line">开始焦虑()</span><br><span class="line">努力消除焦虑()</span><br><span class="line">再次尝试入睡()</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure><p><img src="../../../../img/ngo.jpg" alt="..."></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;别人的睡觉过程：&quot;&gt;&lt;a href=&quot;#别人的睡觉过程：&quot; class=&quot;headerlink&quot; title=&quot;别人的睡觉过程：&quot;&gt;&lt;/a&gt;别人的睡觉过程：&lt;/h1&gt;&lt;figure class=&quot;highlight lua&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td clas
+      
+    
+    </summary>
+    
+    
+      <category term="见·闻" scheme="http://ooomceg.github.io/tags/%E8%A7%81%C2%B7%E9%97%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>震惊！五星员工竟沦落为螺丝钉？</title>
